@@ -2,12 +2,14 @@
 
 -ps
 -htop
+
 <img width="709" height="609" alt="Screenshot 2026-01-28 231525" src="https://github.com/user-attachments/assets/499ccd3b-4bea-42d0-ba2f-2edf3c269a84" />
 
 2 service commands:
 
 -sudo service sshd status
 -systemctl status 
+
 <img width="950" height="958" alt="Screenshot 2026-01-28 232003" src="https://github.com/user-attachments/assets/70855381-3f89-4552-8ed1-35bf436396a4" />
 
 2 log commands:
