@@ -1,4 +1,4 @@
-<img width="795" height="279" alt="Screenshot 2026-02-04 211138" src="https://github.com/user-attachments/assets/a244b196-6b52-44b0-9e77-4759dc349153" /><img width="538" height="365" alt="Screenshot 2026-02-04 205549" src="https://github.com/user-attachments/assets/2f0071e3-a6c7-44f9-a4a6-4c02370b1e3f" /># Day 10 Challenge
+# Day 10 Challenge
 
 ## Files Created
 - Created a empty file in my instace name devops.txt by using touch command
