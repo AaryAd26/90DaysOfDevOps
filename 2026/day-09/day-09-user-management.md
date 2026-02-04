@@ -24,13 +24,13 @@
 
   ## Commands Used
   
-useradd -m uname - Add user with default directory
-sudo passwd uname - Set password for user
-groupadd gname - Add group
-sudo usermod -s /bin/bash username - Change shell
-sudo usermod -aG group user - Assign user to group
-sudo chgrp new_group directory/file  - Change group ownership of a directory or file
-sudo chmod 775 file/directory - Change permissions of a file or directory
+1. useradd -m uname - Add user with default directory
+2. sudo passwd uname - Set password for user
+3. groupadd gname - Add group
+4. sudo usermod -s /bin/bash username - Change shell
+5. sudo usermod -aG group user - Assign user to group
+6. sudo chgrp new_group directory/file  - Change group ownership of a directory or file
+7. sudo chmod 775 file/directory - Change permissions of a file or directory
 
 ## What I Learned
 
