@@ -20,8 +20,7 @@
 
 ## Directories Created
 
-<img width="584" height="125" alt="Screenshot 2026-02-04 203752" src="https://github.com/user-attachments/assets/84f8d2dd-ba9c-497f-9ff8-5dea95ec883f" 
-
+<img width="584" height="125" alt="Screenshot 2026-02-04 203752" src="https://github.com/user-attachments/assets/2e1783a0-ed36-40c8-9e7e-ce5956f88bc2" />
 
   ## Commands Used
   
