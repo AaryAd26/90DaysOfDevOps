@@ -37,5 +37,4 @@
 - Today i learned how to make a user and how to make a group and add user in that group.
 - Also whenever a commands show access denied try to use sudo.
 - how to give permissions to the User and set rwx rules for them
--
 - Practiced managing permissions and observed their impact on collaboration.
