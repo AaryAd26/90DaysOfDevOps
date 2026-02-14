@@ -25,11 +25,11 @@
 -team-notes.txt
 
 ## Ownership Changes
--Run ls -l in your home directory.
--Identify the owner and group columns.
--Check who owns your files.
--Owner : The owner is usually the user who created the file or directory. Owner can change permission of file.
--Group : The group is a collection of users who share access to the file.
+  -Run ls -l in your home directory.
+  -Identify the owner and group columns.
+  -Check who owns your files.
+  -Owner : The owner is usually the user who created the file or directory. Owner can change permission of file.
+  -Group : The group is a collection of users who share access to the file.
 
 <br></br><img width="539" height="427" alt="Screenshot 2026-02-14 235411" src="https://github.com/user-attachments/assets/2a5f5bc5-6e9e-416d-8241-65397fe094c1" />
 
