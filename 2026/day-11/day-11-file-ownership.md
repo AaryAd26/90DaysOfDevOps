@@ -24,10 +24,10 @@
 -project-config.yml
 -team-notes.txt
 
-## Ownership Changes
+# Ownership Changes
   -Run ls -l in your home directory.
   -Identify the owner and group columns.
-  -Check who owns your files.
+  -Check who owns your files.<br>
   -Owner : The owner is usually the user who created the file or directory. Owner can change permission of file.
   -Group : The group is a collection of users who share access to the file.
 
