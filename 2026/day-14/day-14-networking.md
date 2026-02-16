@@ -46,7 +46,7 @@ Ethernet, Wi-Fi - Network Access layer
 -HTTP check: curl -I <http/https-url>
 <br></br>
  <img width="1898" height="824" alt="image" src="https://github.com/user-attachments/assets/eca5f0b8-a827-4c30-a261-63dd42164f91" />
-<br</br>
+<br></br>
 
 -Connections snapshot: netstat -an | head
 <br></br>
