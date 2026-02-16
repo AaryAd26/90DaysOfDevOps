@@ -33,7 +33,7 @@ Ethernet, Wi-Fi - Network Access layer
 <img width="870" height="626" alt="image" src="https://github.com/user-attachments/assets/4dab821c-1c9a-4bf2-816c-910689c04ff3" />
 -- HTTP (Application) over TCP (Transport) over IP (Internet) <br></br>
 
--- **Hands-on Checklist (run these; add 1–2 line observations)**
+# **Hands-on Checklist (run these; add 1–2 line observations)**
 - Identity : hostname -I
 -Reachability: ping <target>
 -Path: traceroute <target>
