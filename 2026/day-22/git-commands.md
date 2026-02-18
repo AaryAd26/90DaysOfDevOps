@@ -10,3 +10,5 @@
 8.  git log --online - Tells us about the full Commit history in compact form where it shows the tracking id.
 9.  git revert commit-id - creates new commit that undoes changes made by given commit
 10. git clone <url> - Clones a Already Exists GitHub repo
+11. git checkout -b "<branch name>" -  Creates a New Branch in the existing Repo
+12. git switch <branch name> - This command is used to seitch between multiple branches 
