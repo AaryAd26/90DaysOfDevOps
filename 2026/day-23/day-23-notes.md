@@ -45,7 +45,7 @@
 
 <img width="841" height="531" alt="image" src="https://github.com/user-attachments/assets/a3aad909-876f-47d4-8af4-1942515d5b15" />
 
-# **ask 4: Pull from GitHub**
+# **Task 4: Pull from GitHub**
 
 1. Make a change to a file directly on GitHub (use the GitHub editor)
 2. Pull that change to your local repo
