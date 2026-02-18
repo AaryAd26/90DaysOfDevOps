@@ -60,7 +60,7 @@ gi pull - it pulls the branch from remote to the local also it downloades and an
 2. Fork the same repository on GitHub, then clone your fork
 3. Answer in your notes:
    > What is the difference between clone and fork?
-- Clone : Suppose we want a particular project to be changes and want that to be in our local then we clone the full project from **remote to local **
+- Clone : Suppose we want a particular project to be changes and want that to be in our local then we clone the full project from **remote to local**
 - Fork : When we want a repository From a **Remote to our Remote** we fork the repository in GitHub
 
    > When would you clone vs fork?
