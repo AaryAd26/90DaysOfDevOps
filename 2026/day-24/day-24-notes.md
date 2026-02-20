@@ -96,7 +96,6 @@
   - What can go wrong with cherry-picking?
 
 
-<img width="877" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca33d180-5a78-45dd-a947-0d8fc1b420a2" />
 
 
 
