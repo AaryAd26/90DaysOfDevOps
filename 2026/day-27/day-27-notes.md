@@ -18,7 +18,7 @@ Questions I asked myself:
   Relevant projects are pinned.
 
 - Do my repositories have proper descriptions?  
-  Yes, all repositories include descriptions.
+  Yes 
 
 - Would a recruiter understand what I’ve been working on?  
   Yes
