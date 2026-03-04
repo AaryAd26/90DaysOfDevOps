@@ -31,13 +31,7 @@ This helped me understand where improvements were needed and what was already st
 
 Created a GitHub Profile README to:
 
-- Introduce myself
-- Highlight my tech stack
-- Showcase key projects
-- Display GitHub stats
-- Share my learning journey
-
-This acts as my developer portfolio landing page.
+Done With Adding the profil README 
 
 ---
 
@@ -67,10 +61,8 @@ Make it easy for anyone visiting my profile to understand my skills and progress
 Pinned the most impactful and relevant repositories to the top of my profile.
 
 Focus areas:
-- DevOps projects
-- Automation scripts
-- Learning documentation
-- Real practice work
+- 90 Days of  DevOps projects
+- python-for-devops
 
 This ensures first impressions are strong.
 
