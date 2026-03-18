@@ -1,7 +1,5 @@
 # Day 29 – Introduction to Docker
 
-## Task
-
 ## Challenge Tasks
 ## Task 1: What is Docker?
 
