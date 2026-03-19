@@ -95,6 +95,8 @@ Docker follows a **client-server architecture**.
   <img width="593" height="44" alt="Screenshot 2026-03-19 005747" src="https://github.com/user-attachments/assets/b2cf5f8e-ef95-48c8-94e3-c713deb6994a" />
 
 3.Map a port from the container to your host
+  <img width="727" height="283" alt="Screenshot 2026-03-19 004807" src="https://github.com/user-attachments/assets/2a21d660-f549-4899-85bf-6e6ffddd0d6f" />
+   
    <img width="1919" height="735" alt="Screenshot 2026-03-19 005731" src="https://github.com/user-attachments/assets/fa543f57-677e-4473-ac1f-c3e012071035" />
 
 4.Check logs of a running container
