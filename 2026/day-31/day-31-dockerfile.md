@@ -1,4 +1,4 @@
-<img width="1919" height="728" alt="image" src="https://github.com/user-attachments/assets/a0e348cb-4f5c-4b15-b89e-77eb479acfde" /># Day 31 – Dockerfile: Build Your Own Images
+# Day 31 – Dockerfile: Build Your Own Images
 ---
 
 ## Challenge Tasks
@@ -51,7 +51,8 @@ Create a new Dockerfile that uses **all** of these instructions:
 
 1. Create a small static HTML file (`index.html`) with any content
     <img width="901" height="1016" alt="image" src="https://github.com/user-attachments/assets/d467c162-f268-4575-bd1b-e3157109ab51" />
-
+    <img width="1919" height="728" alt="image" src="https://github.com/user-attachments/assets/a0e348cb-4f5c-4b15-b89e-77eb479acfde" />
+    
 2. Write a Dockerfile that:
    - Uses `nginx:alpine` as base
    - Copies your `index.html` to the Nginx web directory
