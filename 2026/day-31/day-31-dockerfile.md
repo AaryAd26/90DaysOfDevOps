@@ -53,22 +53,23 @@ Create a new Dockerfile that uses **all** of these instructions:
 
 ### Task 4: Build a Simple Web App Image
 
-1. Create a small static HTML file (`index.html`) with any content
-2. 
+1. Create a small static HTML file (`index.html`) with any content 
     <img width="901" height="1016" alt="image" src="https://github.com/user-attachments/assets/d467c162-f268-4575-bd1b-e3157109ab51" />
-    <img width="1919" height="728" alt="image" src="https://github.com/user-attachments/assets/a0e348cb-4f5c-4b15-b89e-77eb479acfde" />
-    
-3. Write a Dockerfile that:
+   
+2. Write a Dockerfile that:
    - Uses `nginx:alpine` as base
    - Copies your `index.html` to the Nginx web directory
-   - 
-<img width="1044" height="1079" alt="image" src="https://github.com/user-attachments/assets/731398e3-7954-4f44-84ea-f88e5653022b" />
 
-4. Build and tag it `my-website:v1`
-5. Run it with port mapping and access it in your browser
+<img width="399" height="137" alt="Screenshot 2026-03-26 234720" src="https://github.com/user-attachments/assets/411999f0-5f74-405f-87aa-0ddd279033f3" />
+
+3. Build and tag it `my-website:v1`
+
+<img width="1919" height="720" alt="Screenshot 2026-03-26 234810" src="https://github.com/user-attachments/assets/28ca6dbc-e506-4e94-85af-b968ab6e6059" />
    
-<img width="1919" height="728" alt="image" src="https://github.com/user-attachments/assets/793358cf-d473-4155-94cf-1561ad3154ea" />
+4. Run it with port mapping and access it in your browser
+ <img width="1919" height="728" alt="image" src="https://github.com/user-attachments/assets/a0e348cb-4f5c-4b15-b89e-77eb479acfde" />
 
+  
 ---
 
 ### Task 5: .dockerignore
@@ -78,7 +79,7 @@ Create a new Dockerfile that uses **all** of these instructions:
 <img width="522" height="28" alt="image" src="https://github.com/user-attachments/assets/ad8dbadb-a9f8-4778-90fc-6f982c839aed" />
 
 3. Add entries for: `node_modules`, `.git`, `*.md`, `.env`
-4. 
+ 
 <img width="330" height="177" alt="image" src="https://github.com/user-attachments/assets/d4bf0c1d-111e-479e-9bbc-5a23f8a0e1c4" />
 
 5. Build the image — verify that ignored files are not included
