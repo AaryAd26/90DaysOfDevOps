@@ -37,15 +37,17 @@ Create a new Dockerfile that uses **all** of these instructions:
 ### Task 3: CMD vs ENTRYPOINT
 
 1. Create an image with `CMD ["echo", "hello"]` — run it, then run it with a custom command. What happens?
-2. 
+ 
 <img width="318" height="108" alt="image" src="https://github.com/user-attachments/assets/45e31a52-4b74-425e-b1e1-e7a7083d4683" />
 <img width="556" height="61" alt="image" src="https://github.com/user-attachments/assets/f5c6d7de-d972-4d3d-bfe9-b12e667a94eb" />
 <img width="617" height="63" alt="image" src="https://github.com/user-attachments/assets/90d22ada-0209-4122-ad1e-b6505fccf051" />
 
-3. Create an image with `ENTRYPOINT ["echo"]` — run it, then run it with additional arguments. What happens?
+2. Create an image with `ENTRYPOINT ["echo"]` — run it, then run it with additional arguments. What happens?
+ 
 <img width="1167" height="293" alt="image" src="https://github.com/user-attachments/assets/5b0c0236-8e46-4ba2-ab3c-24f3d077098c" />
 
-4. Write in your notes: When would you use CMD vs ENTRYPOINT?
+3. Write in your notes: When would you use CMD vs ENTRYPOINT?<br></br>
+   
    **CMD** :  In CMD we can over write a command if you pass a command at runtime,
    **ENTRYPOINT** : Always runs the specified command first. Appends any additional arguments passed at runtime.
 
