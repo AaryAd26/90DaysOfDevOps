@@ -48,7 +48,8 @@ Create a new Dockerfile that uses **all** of these instructions:
 
 3. Write in your notes: When would you use CMD vs ENTRYPOINT?<br></br>
    
-   **CMD** :  In CMD we can over write a command if you pass a command at runtime,
+   **CMD** :  In CMD we can over write a command if you pass a command at runtime.
+   
    **ENTRYPOINT** : Always runs the specified command first. Appends any additional arguments passed at runtime.
 
 ---
