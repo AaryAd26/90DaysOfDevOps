@@ -1,4 +1,5 @@
 # Day 31 – Dockerfile: Build Your Own Images
+
 ---
 
 ## Challenge Tasks
@@ -14,6 +15,7 @@
 4. Run a container from your image
 
 <img width="1919" height="577" alt="image" src="https://github.com/user-attachments/assets/05115e17-f105-4a2d-a1e1-2b3de0a3cda2" />
+
 ---
 
 ### Task 2: Dockerfile Instructions
@@ -29,6 +31,7 @@ Create a new Dockerfile that uses **all** of these instructions:
 <img width="470" height="268" alt="image" src="https://github.com/user-attachments/assets/90b875c2-06d9-40fd-9325-2e68707a1cfe" />
 <img width="1919" height="366" alt="image" src="https://github.com/user-attachments/assets/0c682ec7-734a-41ce-aebc-5343ee1d1288" />
 <img width="1919" height="487" alt="image" src="https://github.com/user-attachments/assets/3c9d1995-77d7-4dfa-8809-0fb2f64b7b9e" />
+
 ---
 
 ### Task 3: CMD vs ENTRYPOINT
