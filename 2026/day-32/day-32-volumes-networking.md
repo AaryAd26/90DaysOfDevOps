@@ -18,6 +18,7 @@
 <img width="1173" height="419" alt="image" src="https://github.com/user-attachments/assets/f966ae83-0bd2-4a8b-b3d2-15b5a056e719" />
 
 Q. Write what happened and why.
+<br></br>
   ---> After Deleting the Image the data was lost and the table does not exists anymore because Data is stored inside container filesystem so when container is deleted the data is deleted permenantly 
 
 ---
