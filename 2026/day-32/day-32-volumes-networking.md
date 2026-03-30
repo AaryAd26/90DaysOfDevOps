@@ -1,4 +1,4 @@
-## Task 1 : The Problem
+<img width="456" height="337" alt="image" src="https://github.com/user-attachments/assets/2160b4a6-7a7f-41ac-90ba-348f18d730fc" />## Task 1 : The Problem
 
 1. Run a Postgres or MySQL container
 <img width="1156" height="402" alt="image" src="https://github.com/user-attachments/assets/7dc17dee-6a0a-41de-b31d-e7964726b9e1" />
@@ -21,15 +21,22 @@ Q. Write what happened and why.
 ### Task 2: Named Volumes
 
 1. Create a named volume
+
 <img width="698" height="173" alt="image" src="https://github.com/user-attachments/assets/562966ce-88d1-4647-8623-9e6e08c91144" />
 
 2. Run the same database container, but this time **attach the volume** to it
+<img width="722" height="140" alt="image" src="https://github.com/user-attachments/assets/e46af7bc-c34f-413c-8b96-c032b8a8d81d" />
 
 3. Add some data, stop and remove the container
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8db191d7-0cea-40c8-8fd6-6fbf750d9ad9" />
+
+  <img width="456" height="337" alt="image" src="https://github.com/user-attachments/assets/0db49d94-6d7a-49cc-9b96-f8924aba4e2f" />
 
 4. Run a brand new container with the **same volume**
+<img width="1911" height="908" alt="image" src="https://github.com/user-attachments/assets/e1dc42ad-c9a5-4a6f-b7d8-cc0f117c32d7" />
 
 5. Is the data still there?
+Yes the same Data is still there → Volume working perfectly
 
 ---
 
