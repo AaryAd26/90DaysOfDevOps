@@ -1,4 +1,4 @@
-<img width="1453" height="112" alt="image" src="https://github.com/user-attachments/assets/0c1c3a82-fe75-4cfb-933f-31b39ea83776" />## Challenge Tasks
+## Challenge Tasks
 
 ### Task 1: Install & Verify
 1. Check if Docker Compose is available on your machine
