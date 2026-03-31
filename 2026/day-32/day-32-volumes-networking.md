@@ -1,4 +1,4 @@
-<img width="933" height="175" alt="image" src="https://github.com/user-attachments/assets/889665e6-ca90-484f-9012-05a17641a3d2" /><img width="933" height="175" alt="image" src="https://github.com/user-attachments/assets/e864c56f-99ba-4c24-b210-5e8bb1e2c8d1" />## Task 1 : The Problem
+## Task 1 : The Problem
 
 1. Run a Postgres or MySQL container
 
