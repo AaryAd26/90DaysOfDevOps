@@ -7,15 +7,15 @@
 ### Task 1: The Problem with Large Images
 
 1. Write a simple Go, Java, or Node.js app (even a "Hello World" is fine)
-2. 
-<img width="370" height="141" alt="image" src="https://github.com/user-attachments/assets/2e850743-7278-4fa6-bc21-b00832a442e1" />
+ 
+<img width="370" height="141" alt="image" src="https://github.com/user-attachments/assets/2e850743-7278-4fa6-bc21-b00832a442e1" /><br></br>
 <img width="408" height="197" alt="image" src="https://github.com/user-attachments/assets/38383a7c-0165-4e12-9ca2-ddf4d07b9136" />
 
-3. Create a Dockerfile that builds and runs it in a **single stage**
+2. Create a Dockerfile that builds and runs it in a **single stage**
 
 <img width="321" height="294" alt="image" src="https://github.com/user-attachments/assets/7e946f37-e50b-477b-80d9-6a72f0a309f8" />
 
-4. Build the image and check its **size**
+3. Build the image and check its **size**
 
 <img width="930" height="108" alt="image" src="https://github.com/user-attachments/assets/7906a9c8-2109-40de-9d23-ab869d468e21" />
 
