@@ -1,4 +1,4 @@
-<img width="833" height="130" alt="image" src="https://github.com/user-attachments/assets/eb433f46-553d-4b91-ad04-f267820b1bdd" />  # Day 35 – Multi-Stage Builds & Docker Hub
+ # Day 35 – Multi-Stage Builds & Docker Hub
 
   ---
 
@@ -54,6 +54,7 @@ Note down the size — you'll compare it later.
 1. Create a free account on [Docker Hub](https://hub.docker.com) (if you don't have one)
 
  ----> Alreadt have one 
+ <img width="833" height="130" alt="image" src="https://github.com/user-attachments/assets/eb433f46-553d-4b91-ad04-f267820b1bdd" /> 
  
 2. Log in from your terminal
 
