@@ -1,4 +1,4 @@
-<img width="422" height="294" alt="image" src="https://github.com/user-attachments/assets/4cda4d9a-4c96-403e-bc57-db5d8f82dd15" />## Challenge Tasks
+## Challenge Tasks
 
 ### Task 1: Key-Value Pairs
 Create `person.yaml` that describes yourself with:
