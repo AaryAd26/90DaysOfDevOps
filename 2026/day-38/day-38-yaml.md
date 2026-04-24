@@ -63,7 +63,7 @@ In `server.yaml`, add a `startup_script` field using:
 <img width="471" height="470" alt="image" src="https://github.com/user-attachments/assets/1a669fd0-873d-47fc-a0f3-e82f5dde220d" />
 <br></br>
 <img width="509" height="287" alt="image" src="https://github.com/user-attachments/assets/c7197f55-46a7-485d-bcbd-b26cc8dc2766" />
-
+<br></br>
 Write in your notes: When would you use `|` vs `>`?
 
 ```sh
