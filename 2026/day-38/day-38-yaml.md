@@ -118,7 +118,7 @@ tools:
 name: devops
 tools:
 - docker
-  - kubernetes
+  - kubernetes  # <-- wrong indentation
 ```
 
 **Correct:**
@@ -127,8 +127,8 @@ tools:
 # Block 2 - broken
 name: devops
 tools:
-- docker
-  - kubernetes   # <-- wrong indentation
+  - docker
+  - kubernetes   # <-- Correct indentation
 ```
 
 - In Block number 1 the  indentation is correct and the nest is correctly written.
