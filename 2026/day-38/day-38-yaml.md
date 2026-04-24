@@ -33,7 +33,7 @@ tools:
   - git and github
   - github actions
 ```
-2 -
+2.
 ```sh
 hobbies: [learning devops, cricket, swimming]
 ```
