@@ -1,0 +1,20 @@
+name: production-server
+ip: 192.168.1.10
+port: 8080
+
+database:
+  host: localhost
+  name: bankappdb
+  credentials:
+    user: root
+    password: Test@123
+
+startup_script: |
+  echo "starting server"
+  systemctl start server
+  systemctl status server
+  echo "Done"
+
+description: >
+  This is the description to startup script.
+  Script finished.
