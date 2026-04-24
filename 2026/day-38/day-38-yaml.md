@@ -6,7 +6,7 @@ Create `person.yaml` that describes yourself with:
 - `role`
 - `experience_years`
 - `learning` (a boolean)
-
+<br></br>
 <img width="255" height="130" alt="image" src="https://github.com/user-attachments/assets/5eabedb8-facc-4144-aa47-663b12106b4c" />
 
 **Verify:** Run `cat person.yaml` — does it look clean? No tabs?
@@ -17,9 +17,9 @@ Create `person.yaml` that describes yourself with:
 Add to `person.yaml`:
 - `tools` — a list of 5 DevOps tools you know or are learning
 - `hobbies` — a list using the inline format `[item1, item2]`
-
+<br></br>
 <img width="318" height="337" alt="image" src="https://github.com/user-attachments/assets/43f8db10-9d87-47f0-adda-e9fa37ff79ac" />
-
+<br></br>
 <img width="722" height="363" alt="image" src="https://github.com/user-attachments/assets/570f66e8-3d16-4a6c-8c45-eb7353947724" />
 
 
@@ -33,6 +33,7 @@ tools:
   - git and github
   - github actions
 ```
+
 2.
 ```sh
 hobbies: [learning devops, cricket, swimming]
@@ -47,9 +48,9 @@ Create `server.yaml` that describes a server:
 **Verify:** Try adding a tab instead of spaces — what happens when you validate it?
 
  - validation error
-
+<br></br>
 <img width="412" height="315" alt="image" src="https://github.com/user-attachments/assets/6aefd21c-f972-44f0-98fa-d34373a852a8" />
-
+<br></br>
 <img width="267" height="208" alt="image" src="https://github.com/user-attachments/assets/2070fe61-07ac-4862-b702-c61dc4f7f898" />
 
 ---
@@ -58,9 +59,9 @@ Create `server.yaml` that describes a server:
 In `server.yaml`, add a `startup_script` field using:
 1. The `|` block style (preserves newlines)
 2. The `>` fold style (folds into one line)
-
+<br></br>
 <img width="471" height="470" alt="image" src="https://github.com/user-attachments/assets/1a669fd0-873d-47fc-a0f3-e82f5dde220d" />
-
+<br></br>
 <img width="509" height="287" alt="image" src="https://github.com/user-attachments/assets/c7197f55-46a7-485d-bcbd-b26cc8dc2766" />
 
 Write in your notes: When would you use `|` vs `>`?
