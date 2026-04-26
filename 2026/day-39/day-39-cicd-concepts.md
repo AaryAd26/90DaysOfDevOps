@@ -5,21 +5,21 @@ Think about a team of 5 developers all pushing code to the same repo manually de
 
 Write in your notes:
 1. What can go wrong?
-  - There may be a Merge Conflicts because there may be a scenario that 2 dev can push code at a same time.
-  - manual errors can take place as the deploying.
-  - Chances of Getting bugs will be high.
-  - There may be a Downtime because it requires a server restart.
+    - There may be a Merge Conflicts because there may be a scenario that 2 dev can push code at a same time.
+    - manual errors can take place as the deploying.
+    - Chances of Getting bugs will be high.
+    - There may be a Downtime because it requires a server restart.
 
 2. What does "it works on my machine" mean and why is it a real problem?
-  - "it works on my machine" means that:
-  - the code is only working in your local machine the internet world outside cannot see the work you have done.
-  - It happes because of difference in dependencies, OS versions, libraries, database schemas.
-  - It leads to wasted debugging time, finger-pointing, and unstable deployments
+    - "it works on my machine" means that:
+    - the code is only working in your local machine the internet world outside cannot see the work you have done.
+    - It happes because of difference in dependencies, OS versions, libraries, database schemas.
+    - It leads to wasted debugging time, finger-pointing, and unstable deployments
 
 3. How many times a day can a team safely deploy manually?
-  - 2-3 times a team can safely deploy manually, more than this it will be too much of manual errors.
-  - Because each manual deployment requires checks, downtime windows and human oversight.
-  - More frequent deployment increases the chance of mistkes and production instability.
+    - 2-3 times a team can safely deploy manually, more than this it will be too much of manual errors.
+    - Because each manual deployment requires checks, downtime windows and human oversight.
+    - More frequent deployment increases the chance of mistkes and production instability.
 
 ---
 
@@ -27,26 +27,26 @@ Write in your notes:
 
 Research and write short definitions (2-3 lines each):
 1. **Continuous Integration** — what happens, how often, what it catches
-  - continuous integration means a pulling the latest code which is pushed to github is continusously checking out the code, doing the manual checks and and building a Docker Image
-  - In Continuous Integration the CI part validates the uni test.
-  - We can do this Every time a code is pushed, multiple times a day.
-  - It cateches Compiling errors, logic errors, integration issues, environment drift.
-  - Engineers commit code most of times per day. Every commit triggers automated builds and tests across thousands of servers.
+    - continuous integration means a pulling the latest code which is pushed to github is continusously checking out the code, doing the manual checks and and building a Docker Image
+    - In Continuous Integration the CI part validates the uni test.
+    - We can do this Every time a code is pushed, multiple times a day.
+    - It cateches Compiling errors, logic errors, integration issues, environment drift.
+    - Engineers commit code most of times per day. Every commit triggers automated builds and tests across thousands of servers.
 
     - For Ex: Facebook , there are daily code pushed to cloud which runs the test and triggers the pipeline.
 
 2. **Continuous Delivery** — how it's different from CI, what "delivery" means
-  - CI stops at code works and passes tests.
-  - In Continuous Delivery the Docker image which is created is the pushed to Docker Hub and from their the image is pulled back.
-  - CD ensures the code packaged, versioned and ready to be deployed to production at any time.
-  - Delivery gurantees production readiness at anytime
+    - CI stops at code works and passes tests.
+    - In Continuous Delivery the Docker image which is created is the pushed to Docker Hub and from their the image is pulled back.
+    - CD ensures the code packaged, versioned and ready to be deployed to production at any time.
+    - Delivery gurantees production readiness at anytime
 
-    - For Ex: Amazon :  
+      - For Ex: Amazon :  
 
 3. **Continuous Deployment** — how it differs from Delivery, when teams use it
-  - In Continuous Deployment it is used to automate the deployment for every change that passes a test direrctly to production with human intervation.
-  - whenever the test are passed the code is then ready for the deployment and the deployment part is automated.
-  - automating the deployment where the use of Human is not required then it is called the Contoinuos deployment.
+    - In Continuous Deployment it is used to automate the deployment for every change that passes a test direrctly to production with human intervation.
+    - whenever the test are passed the code is then ready for the deployment and the deployment part is automated.
+    - automating the deployment where the use of Human is not required then it is called the Contoinuos deployment.
 
 - For Ex: Netflix : Code that passes automated tests is automatically deployed to production without human approval. It relies on strong monitoring, canary releases and rollback systems.
 
