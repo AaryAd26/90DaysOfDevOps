@@ -37,7 +37,8 @@ Write in your notes: What is a GitHub-hosted runner? Who manages it?
 <br></br>
 Write in your notes: Why does it matter that runners come with tools pre-installed?
 
--Certain tools & languages needs to be pre-installed for smooth & fast workflow run. For example, code checkout needs git, building needs docker. It saves writing long setup steps & installing them.
+- Certain tools & languages needs to be pre-installed for smooth & fast workflow run. For example, code checkout needs git, building needs docker. It saves writing long setup steps & installing them.
+
 ---
 
 ### Task 3: Set Up a Self-Hosted Runner
