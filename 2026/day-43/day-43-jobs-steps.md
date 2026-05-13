@@ -26,8 +26,9 @@ In a new workflow, use environment variables at 3 levels:
 Print all three in a single step and verify each is accessible.
 
 Then use a **GitHub context variable** — print the commit SHA and the actor (who triggered the run).
-
+<br></br>
 [Environment variable yml](https://github.com/AaryAd26/github-action-task/blob/main/.github/workflows/test-env.yml)
+<br></br>
 <img width="709" height="377" alt="image" src="https://github.com/user-attachments/assets/feea881c-0439-4024-8f88-d841b0ad1c8e" />
 
 ---
@@ -62,6 +63,7 @@ In a workflow, add:
 <img width="441" height="354" alt="image" src="https://github.com/user-attachments/assets/6875058b-f490-4c17-94ab-68aa4ba48a17" />
 <br></br>
 [conditions yml file](https://github.com/AaryAd26/github-action-task/blob/main/.github/workflows/conditions.yml)
+
 ---
 
 ### Task 5: Putting It Together
@@ -81,8 +83,7 @@ Create `.github/workflows/smart-pipeline.yml` that:
 
 <br></br>
 
-- summary
+- summary<br></br>
   <img width="321" height="301" alt="image" src="https://github.com/user-attachments/assets/03ca2c69-777f-4a46-bb14-bb650fd11ec7" />
-
 
 ---
