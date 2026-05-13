@@ -47,7 +47,10 @@ Write in your notes: Why does it matter that runners come with tools pre-install
 3. Follow the instructions to download and configure the runner on:
    - Your local machine, OR
    - A cloud VM (EC2, Utho, or any VPS)
-4. Start the runner — verify it shows as **Idle** in GitHub
+4. Start the runner — verify it shows as **Idle** in GitHub.
+5. 
+<br></br>
+<img width="1082" height="288" alt="image" src="https://github.com/user-attachments/assets/1621bba3-d6ef-4cd0-816b-d78c95831310" />
 
 **Verify:** Your runner appears in the Runners list with a green dot.
 
@@ -61,6 +64,9 @@ Write in your notes: Why does it matter that runners come with tools pre-install
    - Print the working directory
    - Create a file and verify it exists on your machine after the run
 4. Trigger it and watch it run on your own hardware
+
+<br></br>
+<img width="1706" height="678" alt="image" src="https://github.com/user-attachments/assets/41df2e97-46fc-414f-9662-6916f67fb147" />
 
 **Verify:** Check your machine — is the file there?
 
@@ -80,10 +86,10 @@ Fill this in your notes:
 
 | | GitHub-Hosted | Self-Hosted |
 |---|---|---|
-| Who manages it? | ? | ? |
-| Cost | ? | ? |
-| Pre-installed tools | ? | ? |
-| Good for | ? | ? |
-| Security concern | ? | ? |
+| Who manages it? | GitHub | We manage it |
+| Cost | Free 2000 mins (per month, public repos unlimited) | As per our own infrastructure usage |
+| Pre-installed tools | Yes (common languages, build tools, Docker, etc.) | No (we install and maintain ourselves) |
+| Good for | Small independent jobs, quick CI/CD setup | Production workloads, specialized environments |
+| Security concern | Controlled by GitHub —so must be handled carefully | Our responsibility — we must secure the machine, patch OS/tools, and protect secrets |
 
 ---  
