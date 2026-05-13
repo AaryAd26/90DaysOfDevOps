@@ -63,7 +63,7 @@ Then extend the matrix to also include 2 operating systems — how many total jo
 <br></br>
 
 2. Set `fail-fast: false` — trigger a failure in one job and observe what happens to the rest
-- fal-fast: false
+- fail-fast: false
 <br></br>
 <img width="303" height="390" alt="image" src="https://github.com/user-attachments/assets/9e26dde0-dfb1-409c-a055-a8ee8b59ed75" />
 <br></br>
