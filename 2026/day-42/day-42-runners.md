@@ -1,4 +1,4 @@
-<img width="986" height="588" alt="Screenshot 2026-05-13 145709" src="https://github.com/user-attachments/assets/049b7d8f-a5c6-480f-95d2-db927d56936f" />## Challenge Tasks
+## Challenge Tasks
 
 ### Task 1: GitHub-Hosted Runners
 1. Create a workflow with 3 jobs, each on a different OS:
